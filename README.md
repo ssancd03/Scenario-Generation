@@ -175,6 +175,23 @@ python cleanup.py
 - **OpenCV**: Procesamiento de imágenes
 - **NumPy**: Computación científica
 
+## Cita
+Si tu trabajo utiliza este repositorio, por favor cita el repositorio o el siguiente artículo:
+
+```bibtex
+@inproceedings{sanchez2025emergency,
+  title = {Generación de escenarios para simulación de emergencias a partir de datos públicos},
+  author = {Sergio Sánchez de la Fuente and Luis Prieto-López and Miguel Ángel González-Santamarta and Abel Carnicero-Mayo and Vicente Matellán-Olivera and Lidia Sánchez-González and Francisco Javier Rodríguez-Lera and Ángel Manuel Guerrero-Higueras},
+  year = {2025},
+  month = {November},
+  booktitle = {Proceedings of XII Congreso Nacional de I+D en Defensa y Seguridad (DESEi+d 2025)},
+  publisher = {Ministerio de Defensa de España},
+  address = {Zamora, Spain},
+  organization = {Subdirección General de Enseñanza Militar (SDGEM); Subdirección General de Planificación, Tecnología e Innovación (SDG PLATIN); Centros Universitarios de Defensa; ISDEFE (Ingeniería de Sistemas para la Defensa de España)},
+  note = {Conference held November 11--13, 2025. Developed in collaboration with ISDEFE and the Spanish Military Emergency Unit (UME)}
+}
+```
+
 ## Contribuciones
 
 Este proyecto forma parte de la investigación académica de la Cátedra ISDEFE-ULE. Las contribuciones están sujetas a las políticas de colaboración entre ambas instituciones.
