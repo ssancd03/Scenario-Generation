@@ -1,4 +1,4 @@
-name: tfm
+name: scenario_generation
 channels:
   - defaults
 dependencies:
